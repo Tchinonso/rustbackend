@@ -1,0 +1,19 @@
+# Rust build
+/target
+
+# Temporary files
+**/*.rs.bk
+*.lock
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Flycheck and incremental builds
+flycheck*
+incremental/
+
+# OS files
+.DS_Store
+Thumbs.db
